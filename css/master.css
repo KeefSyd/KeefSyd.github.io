@@ -1,22 +1,28 @@
-#fairy{
-  width: 70%;
-}
-#fairies{
- width: 70%;
-}
-#fairyanatomy{
- width: 70%;
-}
-#fairyorigin{
- width: 70%;
+*{
+  margin:0;
+  font-family: cursive;
+
 }
 
-.sofia_font{
- font-family: "Sofia", sans-serif;
+header{
+  color:purple;
+  padding:60px;
+  background-color: black;
 }
-
-.triong_font{font-family: "Trirong" ,serif;
+.topnav {
+  background-color: #333;
+  overflow: hidden;
 }
+.home{
+width:80px;
+margin: 20px auto;
+border: 4px solid black;
+padding: 20px;
+text-align: center;
 
-body {
- background-color:turquoise;
+.about-section{
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+
+}

@@ -8,7 +8,7 @@ background-color: gray;
 }
 
 .header_title{
-text-align:center;
+text-align:left;
 font-size:30px;
 padding:20px;
 
@@ -88,4 +88,5 @@ p{
 }
 h1{
 text-align: center;
+padding: 20px;
 }

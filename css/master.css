@@ -54,6 +54,7 @@ nav div{
 .row{
 display:flex;
 border:2px solid purple;
+margin: 20px;
 }
 .column{
 width:50%;
